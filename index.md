@@ -1,2 +1,2 @@
 # This is an H1 header
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Mona the Riveterocat](https://octodex.github.com/mona-the-riveterocat)
